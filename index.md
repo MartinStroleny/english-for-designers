@@ -1,5 +1,5 @@
 # Character & Description
 
-![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](img/letter-a-mstroleny.jpg)
+![I created a custom shape of the letter A, gave it the material of scales, and lit it with a turquoise fire.](img/letter-a-mstroleny.jpg)
 
-**Alt text:** A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
+**Alt text:** Martin Strolený. Render of a letter A in Blender. 2021
