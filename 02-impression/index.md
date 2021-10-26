@@ -4,7 +4,7 @@
 
 ![Screenshot from title slide of presentation.](img/title-slide.png)
 
-Short description about yourself and the work.
+Hi, my name is Martin Strolený and I am a multidisciplinary designer based in the Czech Republic with a passion for well-crafted digital experiences.
 
 - [View Presentation](img/…)
 
