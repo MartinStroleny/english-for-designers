@@ -12,6 +12,8 @@ Hi, my name is Martin Strolený and I am a multidisciplinary designer based in t
 
 Numbered comments correspond to slide order.
 
-1. …
-2. …
-3. …
+1. We have developed a simple application to make sleeping in public transport more pleasant.
+2. Evaluation of pubs throughout the Czech Republic.
+3. It brings the theory and practice of growing healthy soil, healthy food and healthy relationships
+4. Modern music group.
+5. Private community of clothing retailers.
