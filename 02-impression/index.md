@@ -1,6 +1,6 @@
 # Impression
 
-## Title — work by Martin Strolený
+## Work by Martin Strolený
 
 ![Screenshot from title slide of presentation.](img/title-slide.png)
 
