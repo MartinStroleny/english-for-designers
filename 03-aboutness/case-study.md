@@ -10,4 +10,5 @@ Since our acquaintance currently created a design for the school's website itsel
 
 We are currently testing this product with selected teachers and pupils from the Secondary School of Multimedia Studies and we can't wait to extend this system to other schools in the Czech Republic. 
 
-![Alt text description.](img/filename.png)
+![Alt text description.](img/media-mobile.png)
+![Alt text description.](img/media-desktop.png)
