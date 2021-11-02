@@ -3,15 +3,15 @@
 Initiator<br />
 Secondary School of Multimedia Studies
 
-Year of realization
+Year of realization<br />
 2021
 
-Design
+Design<br />
 Martin Strolený
 
-Development
-Patrik Smělý
-Dominik Kopecký
+Development<br />
+Patrik Smělý<br />
+Dominik Kopecký<br />
 Petr Strolený
 
 ## Case study
