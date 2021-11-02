@@ -1,7 +1,7 @@
 # Secondary School of Multimedia Studies
 
 Initiator<br />
-Secondary School of Multimedia Studies
+Archiving system of students' work
 
 Year of realization<br />
 2021
