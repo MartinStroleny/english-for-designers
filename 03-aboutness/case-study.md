@@ -1,6 +1,6 @@
 # Secondary School of Multimedia Studies
 
-Initiator
+### Initiator
 Secondary School of Multimedia Studies
 
 Year of realization
