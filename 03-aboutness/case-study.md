@@ -1,15 +1,15 @@
 # Secondary School of Multimedia Studies
 
-#### Initiator
+Initiator<br />
 Secondary School of Multimedia Studies
 
-#### Year of realization
+Year of realization
 2021
 
-#### Design
+Design
 Martin Strolený
 
-#### Development
+Development
 Patrik Smělý
 Dominik Kopecký
 Petr Strolený
