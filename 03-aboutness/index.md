@@ -6,4 +6,4 @@ Hi, my name is Martin Strolený and I am a multidisciplinary designer based in t
 
 ## My Story
 
-![Alt text description.](img/martin-stroleny.jpg)
+![Martin Strolený sitting on a old chair staring out of focus.](img/martin-stroleny.jpg)
