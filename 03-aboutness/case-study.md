@@ -1,4 +1,4 @@
-## Secondary School of Multimedia Studies
+# Secondary School of Multimedia Studies
 
 The school asked one of the the co-founders of Apparently Studio Patrik Smělý who is a former student of this school about the archiving system of students' work. This system was to facilitate and speed up the submission of student work, the management of these files, and the display of selected work on the school website.
 
@@ -10,7 +10,7 @@ Since our acquaintance currently created a design for the school's website itsel
 
 We are currently testing this product with selected teachers and pupils from the Secondary School of Multimedia Studies and we can't wait to extend this system to other schools in the Czech Republic.
 
-# Preview
+## Project preview
 
 ![Alt text description.](img/media-mobile.png)
 ![Alt text description.](img/media-desktop.png)
