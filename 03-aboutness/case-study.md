@@ -1,7 +1,7 @@
 # Secondary School of Multimedia Studies
 
 Initiator
-# Secondary School of Multimedia Studies
+Secondary School of Multimedia Studies
 
 Year of realization
 2021
@@ -14,7 +14,7 @@ Patrik Smělý
 Dominik Kopecký
 Petr Strolený
 
-##Case study
+## Case study
 
 The school asked one of the the co-founders of Apparently Studio Patrik Smělý who is a former student of this school about the archiving system of students' work. This system was to facilitate and speed up the submission of student work, the management of these files, and the display of selected work on the school website.
 
