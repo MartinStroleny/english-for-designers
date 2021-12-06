@@ -2,7 +2,7 @@
 
 martin.stroleny@apparently.cz<br>
 +420 734 110 406<br>
-https://apparently.studio<br>
+www.apparently.studio<br>
 
 ## Work experience
 
