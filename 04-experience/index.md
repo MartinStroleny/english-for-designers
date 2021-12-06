@@ -16,9 +16,7 @@ An innovative software studio specializing in websites, applications and custom 
 
 ## Education
 
-### Graphic and Media Design (BS)
-
-##### University of Creative Communication
+### University of Creative Communication
 Prague, *2019 – Present*
 
 ## Skills
