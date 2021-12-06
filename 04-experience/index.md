@@ -6,13 +6,12 @@
 ### Freelance graphic designer
 Nymburk *2018-Present*
 
-one-time jobs - logos, logomanuals, illustrations, posters, roll-ups, merch
+Mainly focused one-time jobs - Logos, Brand visual identities, Posters, Single graphic pieces, and websites.
 
-### Freelance graphic designer
-Co-founder and DEO in Apparently Studio, *2021-Present*
-- designing and creating card games
-- packaging orders
-- managing social medias
+### Co-founder and Art Director in Apparently Studio
+Prague *2021-Present*
+
+
 
 ## Education
 ### Graphic and media design, BcA
