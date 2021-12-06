@@ -17,10 +17,10 @@ An innovative software studio specializing in websites, applications and custom 
 ## Education
 
 ### University of Creative Communication
-Prague, *2019 – Present*
+*2019 – Present*, Prague
 
 ### Gymnasium Bohumila Hrabala in Nymburk
-Nymburk, *2012 – 2019*
+*2012 – 2019*, Nymburk
 
 Graduated in Mathematics, Economics, social Sciences, English, Czech and Literature.
 
