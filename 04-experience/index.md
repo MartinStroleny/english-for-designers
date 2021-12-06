@@ -19,12 +19,27 @@ An innovative software studio specializing in websites, applications and custom 
 ### University of Creative Communication
 Prague, *2019 – Present*
 
+### Gymnasium Bohumila Hrabala in Nymburk
+Nymburk, *2012 – 2019*
+
+Graduated in Mathematics, Economics, social Sciences, English, Czech and Literature.
+
 ## Skills
 Design
 - 
 
 Programs
-- 
+* Figma
+* Figjam
+* InVision Studio
+* Adobe Illustrator
+* Adobe Photoshop
+* Adobe Lightroom
+* Adobe InDesign
+* Adobe Premiere
+* Adobe After Effects
+* Blender
+* Microsoft Office
 
 Other
 - 
