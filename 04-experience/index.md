@@ -25,12 +25,34 @@ Nymburk, *2012 – 2019*
 Graduated in Mathematics, Economics, social Sciences, English, Czech and Literature.
 
 ## Skills
-Design
-- 
 
-Programs
+#### Design
+##### Branding
+* Brand identity
+* Naming
+* Illustration
+* 3D
+* Iconography
+* Print
+
+##### Digital Branding
+* User Experience
+* User Interface
+* Prototyping
+* Web design
+* App design
+* E-commerce
+
+##### Experience
+Art Direction
+Motion design
+DIgital product design
+
+
+## Tools
 * Figma
-* Figjam
+* FigJam
+* Milanote
 * InVision Studio
 * Adobe Illustrator
 * Adobe Photoshop
