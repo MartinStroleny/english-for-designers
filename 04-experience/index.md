@@ -4,7 +4,7 @@
 ## Work experience
 
 ### Freelance graphic designer
-Nymburk *2018-Present*
+Nymburk *2018-2021*
 
 Mainly focused one-time jobs - Logos, Brand visual identities, Posters, Single graphic pieces, and websites.
 
