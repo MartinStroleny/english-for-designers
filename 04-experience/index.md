@@ -6,7 +6,7 @@
 ### Freelance graphic designer
 Nymburk *2018-2021*
 
-Mainly focused one-time jobs - Logos, Brand visual identities, Posters, Single graphic pieces, and websites.
+Mainly focused one-time jobs - logos, brand visual identities, posters, single graphic pieces, and websites.
 
 ### Co-founder and Art Director in Apparently Studio
 Prague *2021-Present*
