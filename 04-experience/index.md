@@ -1,5 +1,5 @@
 # Martin Strolený
-martin.stroleny@apparently.cz / +420 734 110 406
+martin.stroleny@apparently.cz | +420 734 110 406 | apparently.studio
 
 ---
 
