@@ -26,8 +26,7 @@ Graduated in Mathematics, Economics, social Sciences, English, Czech and Literat
 
 ## Skills
 
-#### Design
-##### Branding
+#### Branding
 * Brand identity
 * Naming
 * Illustration
@@ -35,7 +34,7 @@ Graduated in Mathematics, Economics, social Sciences, English, Czech and Literat
 * Iconography
 * Print
 
-##### Digital Branding
+#### Digital Branding
 * User Experience
 * User Interface
 * Prototyping
@@ -43,11 +42,10 @@ Graduated in Mathematics, Economics, social Sciences, English, Czech and Literat
 * App design
 * E-commerce
 
-##### Experience
-Art Direction
-Motion design
-DIgital product design
-
+#### Experience
+* Art Direction
+* Motion design
+* DIgital product design
 
 ## Tools
 * Figma
@@ -63,9 +61,6 @@ DIgital product design
 * Blender
 * Microsoft Office
 
-Other
-- 
-
-Languages
-- active: English, Czech
-- passive: German
+## Languages
+* active: English, Czech
+* passive: German
