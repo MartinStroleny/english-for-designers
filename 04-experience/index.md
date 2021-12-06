@@ -1,13 +1,15 @@
 # Martin Strolený
-martin.stroleny@apparently.cz | +420 734 110 406 | https://apparently.studio
-
----
+##### martin.stroleny@apparently.cz | +420 734 110 406 | https://apparently.studio
 
 ## Work experience
-Freelance graphic designer. 2018-2021
-- one-time jobs - logos, logomanuals, illustrations, posters, roll-ups, merch
 
-CEO in company Na Káry, 2020-current
+### Freelance graphic designer
+Nymburk *2018-Present*
+
+one-time jobs - logos, logomanuals, illustrations, posters, roll-ups, merch
+
+### Freelance graphic designer
+Co-founder and DEO in Apparently Studio, *2021-Present*
 - designing and creating card games
 - packaging orders
 - managing social medias
