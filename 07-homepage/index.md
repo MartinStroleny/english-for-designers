@@ -1,1 +1,3 @@
-Blank
+Martin Strolený
+Links
+Contact
