@@ -6,7 +6,7 @@ Visit me in the studio at *[Za Žoskou 2506, Nymburk, 288 02](https://www.google
 martin.stroleny@apparently.cz<br>
 If you want to work with me on smaller design focused projects<br>
 <br>
-www.apparently.studio<br>
+*[apparently.studio](https://apparently.studio)*<br>
 If you have a larger project which requires software solution
 ## Coursework
 01 &nbsp;&nbsp;Character & Description<br>
