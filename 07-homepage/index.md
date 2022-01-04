@@ -1,5 +1,6 @@
 # Martin Strolený
 ![Martin is sitting on the couch, staring to his left.](img/martin-stroleny.jpg)
+<br>
 Visit me in the studio at *[Za Žoskou 2506, Nymburk, 288 02](https://www.google.com/maps?q=apparently+studio&client=safari&rls=en&sxsrf=AOaemvLNtWmaKZ7lPGxbHurpA6-SCIn-kw:1641317686252&gs_lcp=Cgdnd3Mtd2l6EAMYADIHCCMQsQIQJzIECAAQQzIECAAQCjIECAAQCjIKCC4QxwEQrwEQCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjoHCCMQsAMQJzoECCMQJzoFCAAQkQI6CwguEMcBENEDEJECOgsILhCABBDHARDRAzoLCC4QgAQQxwEQowI6BQguEIAEOgUIABCABDoNCC4QgAQQxwEQ0QMQCjoHCC4QgAQQCjoLCC4QgAQQxwEQrwE6BwgAEIAEEAo6CwguEMcBEKMCEJECOgoILhDHARCjAhBDOgUIABDLAToHCAAQChDLAToLCC4QxwEQrwEQywE6BQguEMsBSgQIQRgBSgQIRhgAUO4GWJYiYIkraAhwAHgCgAHBAYgB7wuSAQQxMi40mAEAoAEByAECwAEB&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjOr-e50pj1AhWMQvEDHTTzBL0Q_AUoA3oECAEQBQ)*<br>
 <br>
 martin.stroleny@apparently.cz<br>
