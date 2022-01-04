@@ -1,6 +1,7 @@
 # Martin Strolený
-Links
-Contact
+martin.stroleny@apparently.cz<br>
++420 734 110 406<br>
+www.apparently.studio<br>
 ## About
 - My story
 - View CV
@@ -12,7 +13,7 @@ Contact
 05 &nbsp;&nbsp;Voice & Tone<br>
 06 &nbsp;&nbsp;Storytelling<br>
 ## Takeaways
-1. ==Substance over form==. I should start with content, than add design elements which support it and give it more meaning and memorability.
+1. Substance over form. I should start with content, than add design elements which support it and give it more meaning and memorability.
 2. Seek more accessibility in the way I design software solutions.
 3. Meaning and application of voice, tone and style in design systems. After the lesson I learned about this, I immediately used it in practice.
 4. Thinking about how I communicate my thoughts, ideas and projects in both everyday and professional life.
