@@ -1,9 +1,9 @@
-# Martin Strolený
+# Aboutness
 [← Homepage](https://martinstroleny.github.io/english-for-designers/07-homepage/index)
 
 ## About Me
 
-Hi, I am a multidisciplinary designer based in the Czech Republic with a passion for well-crafted digital experiences.
+Hi, my name is Martin Strolený and I am a multidisciplinary designer based in the Czech Republic with a passion for well-crafted digital experiences.
 
 - [View Selected Case Study](case-study.md)
 
