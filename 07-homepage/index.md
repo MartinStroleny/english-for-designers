@@ -5,12 +5,12 @@ Contact
 - My story
 - View CV
 ## Work
-01 &nbsp;&nbsp;&nbsp;&nbsp;Character & Description<br>
-02 &nbsp;&nbsp;&nbsp;&nbsp;Impression<br>
-03 &nbsp;&nbsp;&nbsp;&nbsp;Aboutness<br>
-04 &nbsp;&nbsp;&nbsp;&nbsp;Experience<br>
-05 &nbsp;&nbsp;&nbsp;&nbsp;Voice & Tone<br>
-06 &nbsp;&nbsp;&nbsp;&nbsp;Storytelling<br>
+01 &nbsp;&nbsp;&nbsp;Character & Description<br>
+02 &nbsp;&nbsp;&nbsp;Impression<br>
+03 &nbsp;&nbsp;&nbsp;Aboutness<br>
+04 &nbsp;&nbsp;&nbsp;Experience<br>
+05 &nbsp;&nbsp;&nbsp;Voice & Tone<br>
+06 &nbsp;&nbsp;&nbsp;Storytelling<br>
 ## Takeaways
 1. Substance over form. I should start with content, than add design elements which support it and give it more meaning and memorability.
 2. Seek more accessibility in the way I design software solutions.
