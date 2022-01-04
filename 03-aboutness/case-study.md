@@ -1,4 +1,4 @@
-# Secondary School of Multimedia Studies
+# MEDIA
 [← Martin Strolený](index.md)
 
 <ins>Initiator</ins><br />
