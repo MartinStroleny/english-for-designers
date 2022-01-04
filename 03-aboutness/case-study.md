@@ -1,5 +1,5 @@
 # MEDIA
-[← Aboutness]((https://martinstroleny.github.io/english-for-designers/03-aboutness/index))
+[← Aboutness](https://martinstroleny.github.io/english-for-designers/03-aboutness/index)
 
 <ins>Initiator</ins><br />
 EKO Grammar School and Secondary School Multimedia Studio
