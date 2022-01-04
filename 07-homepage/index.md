@@ -9,7 +9,7 @@ If you want to work with me on smaller design focused projects<br>
 *[apparently.studio](https://apparently.studio)*<br>
 If you have a larger project which requires software solution
 ## Coursework
-01 &nbsp;&nbsp;[Character & Description](MartinStroleny/english-for-designers/01-character-description/index.md)<br>
+01 &nbsp;&nbsp;[Character & Description](01-character-description/index.md)<br>
 02 &nbsp;&nbsp;Impression<br>
 03 &nbsp;&nbsp;Aboutness<br>
 04 &nbsp;&nbsp;Experience: CV<br>
