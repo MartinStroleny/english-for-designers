@@ -2,7 +2,7 @@
 
 If you want to work with me martin.stroleny@apparently.cz<br>
 Or call +420 734 110 406<br>
-www.apparently.studio<br>
+If you have a larger project www.apparently.studio<br>
 
 ## Work experience
 
