@@ -1,5 +1,5 @@
 # MEDIA
-[← Martin Strolený](index.md)
+[← Aboutness](index.md)
 
 <ins>Initiator</ins><br />
 EKO Grammar School and Secondary School Multimedia Studio
