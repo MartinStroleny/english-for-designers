@@ -1,8 +1,7 @@
 # Martin Strolený
 martin.stroleny@apparently.cz<br>
-If you want to work with me<br>
-www.apparently.studio<br>
-If you have a larger project<br>
++420 734 110 406<br>
+[apparently.studio](https://apparently.studio)
 
 ## Work experience
 
