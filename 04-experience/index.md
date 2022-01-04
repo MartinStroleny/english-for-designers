@@ -1,7 +1,7 @@
 # Martin Strolený
 
 If you want to work with me martin.stroleny@apparently.cz<br>
-If you want to work with me now +420 734 110 406<br>
+Or call +420 734 110 406<br>
 www.apparently.studio<br>
 
 ## Work experience
