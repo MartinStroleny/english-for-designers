@@ -17,7 +17,7 @@
 
 ## Tone
 
-##### Casual
+#### Casual
 - Warm
 - Friendly
 - Enthusiastic
@@ -26,7 +26,7 @@
 - Playful
 - Optimistic
 
-##### Formal
+#### Formal
 - Direct
 - Clear
 - Serious
