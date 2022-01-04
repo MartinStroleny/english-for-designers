@@ -9,7 +9,7 @@ If you have a larger project which requires software solution<br>
 ## About
 - My story
 - View CV
-## Work
+## Coursework
 01 &nbsp;&nbsp;Character & Description<br>
 02 &nbsp;&nbsp;Impression<br>
 03 &nbsp;&nbsp;Aboutness<br>
