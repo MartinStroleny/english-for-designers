@@ -1,4 +1,4 @@
-Martin Strolený
+<center>Martin Strolený</center>
 Links
 Contact
 ## About
