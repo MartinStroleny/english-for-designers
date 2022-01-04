@@ -1,8 +1,8 @@
 # Martin Strolený
-→ martin.stroleny@apparently.cz<br>
+martin.stroleny@apparently.cz<br>
 If you want to work with me<br>
 <br>
-→ www.apparently.studio<br>
+www.apparently.studio<br>
 If you have a larger project<br>
 ## About
 - My story
