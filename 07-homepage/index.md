@@ -1,7 +1,7 @@
 Martin Strolený
 Links
 Contact
-<center>### Work</center>
+<center>Work</center>
 01 &nbsp;&nbsp;&nbsp;&nbsp;Character & Description<br>
 02 &nbsp;&nbsp;&nbsp;&nbsp;Impression<br>
 03 &nbsp;&nbsp;&nbsp;&nbsp;Aboutness<br>
