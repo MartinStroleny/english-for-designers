@@ -2,7 +2,7 @@
 [← Martin Strolený](index.md)
 
 <ins>Initiator</ins><br />
-Archiving system of students' work
+EKO Grammar School and Secondary School Multimedia Studio
 
 <ins>Year of realization</ins><br />
 2021
