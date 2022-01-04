@@ -1,4 +1,4 @@
-<center>Martin Strolený</center>
+<center>Martin Strolený
 Links
 Contact
 ## About
@@ -17,4 +17,4 @@ Contact
 3. Meaning and application of voice, tone and style in design systems. After the lesson I learned about this, I immediately used it in practice.
 4. Thinking about how I communicate my thoughts, ideas and projects in both everyday and professional life.
 5. Awareness of mistakes in my speeches, presentations and in the overall communication of my projects in front of strangers, where I am afraid of every word and my own failure. I have to learn to trust my communication skills and constantly improve them. This applies to both my native and English language.
-6. It is possible to have a nice time in english lessons. Thank you Justin.
+6. It is possible to have a nice time in english lessons. Thank you Justin.</center>
