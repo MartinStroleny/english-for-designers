@@ -8,10 +8,11 @@ If you want to work with me on smaller design focused projects<br>
 <br>
 [apparently.studio](https://apparently.studio)<br>
 If you have a larger project which requires software solution
+## About
 ## Coursework
 01 &nbsp;&nbsp;[Character & Description](https://martinstroleny.github.io/english-for-designers/01-character-description/index)<br>
 02 &nbsp;&nbsp;[Impression](https://martinstroleny.github.io/english-for-designers/02-impression/index)<br>
-03 &nbsp;&nbsp;Aboutness<br>
+03 &nbsp;&nbsp;[Case Study: Media](https://martinstroleny.github.io/english-for-designers/03-aboutness/index)<br>
 04 &nbsp;&nbsp;Experience: CV<br>
 05 &nbsp;&nbsp;Voice & Tone<br>
 06 &nbsp;&nbsp;Storytelling<br>
