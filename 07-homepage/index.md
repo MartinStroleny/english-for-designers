@@ -2,10 +2,10 @@
 Visit me in the studio at Za Žoskou 2506, Nymburk, 288 02<br>
 <br>
 martin.stroleny@apparently.cz<br>
-If you want to work with me<br>
+If you want to work with me on smaller design focused projects<br>
 <br>
 www.apparently.studio<br>
-If you have a larger project<br>
+If you have a larger project which requires software solution<br>
 ## About
 - My story
 - View CV
