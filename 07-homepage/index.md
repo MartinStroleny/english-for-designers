@@ -2,12 +2,12 @@ Martin Strolený
 Links
 Contact
 ### Work
-01 Character & Description<br>
-02 Impression<br>
-03 Aboutness<br>
-04 Experience<br>
-05 Voice & Tone<br>
-06 Storytelling<br>
+01*****Character & Description<br>
+02*****Impression<br>
+03*****Aboutness<br>
+04*****Experience<br>
+05*****Voice & Tone<br>
+06*****Storytelling<br>
 
 
 ### Takeaways
