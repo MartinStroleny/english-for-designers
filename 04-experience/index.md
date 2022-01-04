@@ -1,6 +1,4 @@
 # Martin Strolený
-Visit me at Za Žoskou 2506, 288 02 Nymburk
-
 martin.stroleny@apparently.cz<br>
 If you want to work with me<br>
 www.apparently.studio<br>
