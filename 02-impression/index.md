@@ -2,6 +2,7 @@
 ## Work by Martin Strolený
 Hi, my name is Martin Strolený and I am a multidisciplinary designer based in the Czech Republic with a passion for well-crafted digital experiences.
 - [View Presentation](pdf/presentation.pdf)
+
 ### Notes
 Numbered comments correspond to slide order.
 1. We have developed a simple application to make sleeping in public transport more pleasant.
