@@ -3,11 +3,11 @@ Links
 Contact
 ### Work
 01 &nbsp;&nbsp;&nbsp;&nbsp;Character & Description<br>
-02 Impression<br>
-03 Aboutness<br>
-04 Experience<br>
-05 Voice & Tone<br>
-06 Storytelling<br>
+02 &nbsp;&nbsp;&nbsp;&nbsp;Impression<br>
+03 &nbsp;&nbsp;&nbsp;&nbsp;Aboutness<br>
+04 &nbsp;&nbsp;&nbsp;&nbsp;Experience<br>
+05 &nbsp;&nbsp;&nbsp;&nbsp;Voice & Tone<br>
+06 &nbsp;&nbsp;&nbsp;&nbsp;Storytelling<br>
 
 
 ### Takeaways
