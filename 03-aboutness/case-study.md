@@ -1,7 +1,7 @@
 # Secondary School of Multimedia Studies
 [← Martin Strolený](index.md)
 
-Initiator<br />
+<ins>Initiator</ins><br />
 Archiving system of students' work
 
 Year of realization<br />
