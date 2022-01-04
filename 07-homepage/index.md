@@ -8,7 +8,7 @@ Contact
 01 &nbsp;&nbsp;Character & Description<br>
 02 &nbsp;&nbsp;Impression<br>
 03 &nbsp;&nbsp;Aboutness<br>
-04 &nbsp;&nbsp;Experience<br>
+04 &nbsp;&nbsp;Experience: CV<br>
 05 &nbsp;&nbsp;Voice & Tone<br>
 06 &nbsp;&nbsp;Storytelling<br>
 ## Takeaways
