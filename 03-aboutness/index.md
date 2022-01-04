@@ -15,4 +15,4 @@ My goal is to connect people with brands and companies through design, a combina
 
 I co-founded the software company Apparently Studio, where I currently work as a multidisciplinary designer. I'm always available for interesting collaborations and fun side projects. If you would like to cooperate, do not hesitate to contact me.
 
-I am currently studying the final year of my bachelor's degree at University of Creative Communication in the field of Graphic and Media design.
+I am currently studying the final year of my bachelor's degree at University of Creative Communication with a specialization in Graphic and Media design.
