@@ -1,5 +1,5 @@
 # MEDIA
-[← Aboutness](index.md)
+[← Aboutness](index)
 
 <ins>Initiator</ins><br />
 EKO Grammar School and Secondary School Multimedia Studio
