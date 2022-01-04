@@ -8,7 +8,7 @@ If you want to work with me on smaller design focused projects<br>
 <br>
 [apparently.studio](https://apparently.studio)<br>
 If you have a larger project which requires software solution
-## About
+
 ## Coursework
 01 &nbsp;&nbsp;[Character & Description](https://martinstroleny.github.io/english-for-designers/01-character-description/index)<br>
 02 &nbsp;&nbsp;[Impression](https://martinstroleny.github.io/english-for-designers/02-impression/index)<br>
@@ -16,6 +16,7 @@ If you have a larger project which requires software solution
 04 &nbsp;&nbsp;[Experience: CV](https://martinstroleny.github.io/english-for-designers/04-experience/index)<br>
 05 &nbsp;&nbsp;[Voice & Tone](https://martinstroleny.github.io/english-for-designers/05-voice-tone/index)<br>
 06 &nbsp;&nbsp;Storytelling<br>
+
 ## Takeaways
 #### Substance over form
 I should start with content, than add design elements which support it and give it more meaning and memorability.
