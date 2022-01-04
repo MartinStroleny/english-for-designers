@@ -1,4 +1,5 @@
 # Secondary School of Multimedia Studies
+[← Aboutness](index.md)
 
 Initiator<br />
 Archiving system of students' work
