@@ -23,10 +23,10 @@ I should start with content, than add design elements which support it and give 
 #### Accessibility
 Seek more accessibility in the way I design software solutions.
 #### Voice, Tone and Style
-Meaning and application of voice, tone and style in design systems. After the lesson I learned about this, I immediately used it in practice.
+Meaning and application of voice, tone and style in design systems. After the lesson, I immediately used it in practice.
 #### Commication skills
 Thinking about how I communicate my thoughts, ideas and projects in both everyday and professional life.
 #### Recognizing my mistakes
-Awareness of mistakes in my speeches, presentations and in the overall communication of my projects in front of strangers, where I am afraid of every word and my own failure. I have to learn to trust my communication skills and constantly improve them. This applies to both my native and English language.
+Awareness of mistakes in my speeches, presentations and in the overall communication of projects in front of strangers, where I'm afraid of every word and my own failure. I have to learn to trust my communication skills and constantly improve them. This applies to both my native and English language.
 #### Thank you
-It is possible to have a nice time in english lessons. Thank you Justin.
+It's possible to have a nice time in english lessons. Thank's Justin.
