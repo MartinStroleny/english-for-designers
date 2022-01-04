@@ -1,3 +1,6 @@
+# Voice & Tone
+[← Homepage](https://martinstroleny.github.io/english-for-designers/07-homepage/index)
+
 ## Voice
 
 1. Minimalism
