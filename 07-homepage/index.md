@@ -15,7 +15,7 @@ If you have a larger project which requires software solution
 03 &nbsp;&nbsp;[Case Study: Media](https://martinstroleny.github.io/english-for-designers/03-aboutness/index)<br>
 04 &nbsp;&nbsp;[Experience: CV](https://martinstroleny.github.io/english-for-designers/04-experience/index)<br>
 05 &nbsp;&nbsp;[Voice & Tone](https://martinstroleny.github.io/english-for-designers/05-voice-tone/index)<br>
-06 &nbsp;&nbsp;Storytelling<br>
+06 &nbsp;&nbsp;Storytelling (WIP)<br>
 
 ## Takeaways
 #### Substance over form
