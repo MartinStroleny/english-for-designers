@@ -4,13 +4,14 @@
 <ins>Initiator</ins><br />
 Archiving system of students' work
 
-Year of realization<br />
+<ins>Year of realization</ins><br />
 2021
 
-Design<br />
+<ins>Design</ins><br />
 Martin Strolený
+Bety Remišová
 
-Development<br />
+<ins>Development</ins><br />
 Patrik Smělý<br />
 Dominik Kopecký<br />
 Petr Strolený
