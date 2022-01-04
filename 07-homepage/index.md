@@ -7,10 +7,10 @@ martin.stroleny@apparently.cz<br>
 If you want to work with me on smaller design focused projects<br>
 <br>
 www.apparently.studio<br>
-If you have a larger project which requires software solution<br>
+If you have a larger project which requires software solution
 ## About
 - My story
-- CV
+- View CV
 ## Coursework
 01 &nbsp;&nbsp;Character & Description<br>
 02 &nbsp;&nbsp;Impression<br>
