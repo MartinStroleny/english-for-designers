@@ -15,7 +15,11 @@ If you have a larger project which requires software solution
 03 &nbsp;&nbsp;[Case Study: Media](https://martinstroleny.github.io/english-for-designers/03-aboutness/index)<br>
 04 &nbsp;&nbsp;[Experience: CV](https://martinstroleny.github.io/english-for-designers/04-experience/index)<br>
 05 &nbsp;&nbsp;[Voice & Tone](https://martinstroleny.github.io/english-for-designers/05-voice-tone/index)<br>
-06 &nbsp;&nbsp;Storytelling (in progress)<br>
+06 &nbsp;&nbsp;[Story Telling](https://martinstroleny.github.io/english-for-designers/06-story-telling/index)<br>
+08 &nbsp;&nbsp;[Clarity First](https://martinstroleny.github.io/english-for-designers/08-clarity-first/index)<br>
+09 &nbsp;&nbsp;[Layout Second](https://martinstroleny.github.io/english-for-designers/09-layout-second/index)<br>
+10 &nbsp;&nbsp;[Thesis Digest](https://martinstroleny.github.io/english-for-designers/10-thesis-digest/index)<br>
+11 &nbsp;&nbsp;[AfterLife](https://martinstroleny.github.io/english-for-designers/11-presentation/index)<br>
 
 ## Takeaways
 #### Substance over form
@@ -30,3 +34,7 @@ Thinking about how I communicate my thoughts, ideas and projects in both everyda
 Awareness of mistakes in my speeches, presentations and in the overall communication of projects in front of strangers, where I'm afraid of every word and my own failure. I have to learn to trust my communication skills and constantly improve them. This applies to both my native and English language.
 #### Thank you
 It's possible to have a nice time in english lessons. Thank's Justin.
+
+## Final Takeaways & Goodbye
+#### Label
+text
