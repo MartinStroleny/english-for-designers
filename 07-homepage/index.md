@@ -35,6 +35,5 @@ Awareness of mistakes in my speeches, presentations and in the overall communica
 #### Thank you
 It's possible to have a nice time in english lessons. Thank's Justin.
 
-## Final Takeaways & Goodbye
-#### Label
-text
+## Year Review
+[Open Year Review](https://martinstroleny.github.io/english-for-designers/year-review/index)<br>
