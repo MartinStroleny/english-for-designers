@@ -23,3 +23,20 @@ In the fifth slide, I show the number of people who use Facebook groups, I do no
 
 ## Product
 ![slide 6 product](img/slide-6.png)
+In the sixth slide, however, I still describe the functions of the application in a very abstract way and show for the first time what the product is likely to look like after development.
+
+## Business model
+![slide 7 business model](img/slide-7.png)
+In the seventh slide, I show the first part of the business model, which distinguishes my service and gives part of the service's earnings back to the designers. By having their products resold, they can communicate and value sustainable fashion.
+
+## Subscription
+![slide 8 subscription](img/slide-8.png)
+The business model also includes a subscription, which is divided into 3 pillars. In the first place, it will focus only on designers, or the creation of e-shops, but in the future, I plan to create subscribtion for resellers.
+
+## Competition
+![slide 9 competition](img/slide-9.png)
+The competition of the service is both services enabling the creation of your own e-shop and existing platforms focusing on the resale and direct sale of clothing.
+
+## Competitive advantages
+![slide 10 competition](img/slide-10.png)
+I close the presentation with a final slide, which summarizes the benefits and innovations of the service in two short claims.
