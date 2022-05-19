@@ -1,6 +1,6 @@
 # Afterlife
 To present the project, I created several of the following slides, which as a whole form pitchdeck. I also use similar slides in my bachelor thesis.
-[Open Prototype](https://apparently.studio)<br> of the mobile application using Figma.
+[Open Prototype](https://apparently.studio) of the mobile application using Figma.
 
 ## Introduction
 ![slide 1 introduction](img/slide-1.png)
