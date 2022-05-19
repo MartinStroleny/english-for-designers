@@ -15,7 +15,7 @@ If you have a larger project which requires software solution
 03 &nbsp;&nbsp;[Case Study: Media](https://martinstroleny.github.io/english-for-designers/03-aboutness/index)<br>
 04 &nbsp;&nbsp;[Experience: CV](https://martinstroleny.github.io/english-for-designers/04-experience/index)<br>
 05 &nbsp;&nbsp;[Voice & Tone](https://martinstroleny.github.io/english-for-designers/05-voice-tone/index)<br>
-06 &nbsp;&nbsp;[Story Telling](https://martinstroleny.github.io/english-for-designers/06-storytelling/index)<br>
+06 &nbsp;&nbsp;[Storytelling](https://martinstroleny.github.io/english-for-designers/06-storytelling/index)<br>
 08 &nbsp;&nbsp;[Clarity First](https://martinstroleny.github.io/english-for-designers/08-clarity-first/index)<br>
 09 &nbsp;&nbsp;[Layout Second](https://martinstroleny.github.io/english-for-designers/09-layout-second/index)<br>
 10 &nbsp;&nbsp;[Thesis Digest](https://martinstroleny.github.io/english-for-designers/10-thesis-digest/index)<br>
