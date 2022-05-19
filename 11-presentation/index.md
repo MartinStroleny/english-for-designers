@@ -1,6 +1,6 @@
 # Afterlife
 To present the project, I created several of the following slides, which as a whole form pitchdeck. I also use similar slides in my bachelor thesis.
-You can [Open prototype](https://apparently.studio](https://www.figma.com/proto/FJZ6pTPnp5Fmd6ZNJuhmjd/Afterlife?page-id=22%3A4&node-id=684%3A31120&viewport=1266%2C168%2C0.02&scaling=scale-down&starting-point-node-id=714%3A25533&show-proto-sidebar=1)
+You can [Open prototype]([https://apparently.studio](https://www.figma.com/proto/FJZ6pTPnp5Fmd6ZNJuhmjd/Afterlife?page-id=22%3A4&node-id=684%3A31120&viewport=1266%2C168%2C0.02&scaling=scale-down&starting-point-node-id=714%3A25533&show-proto-sidebar=1](https://www.figma.com/proto/FJZ6pTPnp5Fmd6ZNJuhmjd/Afterlife?page-id=22%3A4&node-id=684%3A31120&viewport=1266%2C168%2C0.02&scaling=scale-down&starting-point-node-id=714%3A25533&show-proto-sidebar=1))
 
 ## Introduction
 ![slide 1 introduction](img/slide-1.png)
