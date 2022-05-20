@@ -36,4 +36,5 @@ Awareness of mistakes in my speeches, presentations and in the overall communica
 It's possible to have a nice time in english lessons. Thank's Justin.
 
 ## Year Review
+![Year Review from 2021 to 2022](img/year-review.png)
 [Open Year Review](https://martinstroleny.github.io/english-for-designers/year-review/index)<br>
